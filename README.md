@@ -1,1 +1,1 @@
-So the idea about this project is to be something like LinkedIn,but instead of people posting about jobs and job related content.Is for people to post and discuss ideas,projects,startups etc.
+So the idea about this project is to be something like LinkedIn,but instead of people posting about jobs.Is to post and discuss ideas,projects,startups etc without the 'fear' of damaging their 'reputation'.
